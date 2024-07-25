@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.cache/
+.vs/
+build/
+out/
+Release/
+x64/
+cmake-build-debug/
+cmake-build-release/
+Debug/
+*.log
